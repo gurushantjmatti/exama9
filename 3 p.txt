@@ -1,0 +1,15 @@
+Network architecture concepts
+Understanding vulnerabilities in different OSI
+layers and protocols (TCP, UDP, IP, ICMP)
+
+
+Protocols : IPSec, SSL, TLS (versions and
+vulnerabilities)
+
+
+Attacks and vulnerabilities: Injection attacks :
+SQL, HTTP header, OS command 
+
+
+DOS attacks, countermeasures (in
+relation to wireless networks) 
